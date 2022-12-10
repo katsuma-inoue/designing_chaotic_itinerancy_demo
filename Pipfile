@@ -8,7 +8,7 @@ pycodestyle = "*"
 
 [packages]
 parse = "*"
-dill = "~=0.2.7.1"
+inquirer = "*"
 
 [requires]
 python_version = "3.7"
