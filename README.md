@@ -1,5 +1,6 @@
 # Overview
 Python scripts for [*Designing spontaneous behavioral switching via chaotic itinerancy*](https://advances.sciencemag.org/content/6/46/eabb3989).
+
 ```bibtex
 @article{inoue2020designing,
   title={Designing spontaneous behavioral switching via chaotic itinerancy},
@@ -12,6 +13,12 @@ Python scripts for [*Designing spontaneous behavioral switching via chaotic itin
   publisher={American Association for the Advancement of Science}
 }
 ```
+- Step 2
+![](assets/step2.gif)
+
+- Step 3
+![](assets/step3.gif)
+
 
 # Installation
 Please use an [Anaconda](https://www.anaconda.com/) environment to run the scripts. We recommend using [pyenv](https://github.com/pyenv/pyenv) and [pipenv](https://github.com/pypa/pipenv) to construct the python environment. If you prefer to use your own Anaconda environment, please install packages listed on `Pipfile` via `pip` or `conda`.
