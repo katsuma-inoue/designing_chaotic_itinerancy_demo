@@ -14,9 +14,11 @@ Python scripts for [*Designing spontaneous behavioral switching via chaotic itin
 }
 ```
 - Step 2
+
 ![](assets/step2.gif)
 
 - Step 3
+
 ![](assets/step3.gif)
 
 
